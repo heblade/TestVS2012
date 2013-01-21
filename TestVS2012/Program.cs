@@ -11,6 +11,8 @@ namespace TestVS2012
         static void Main(string[] args)
         {
             Console.WriteLine("hello git");
+
+            Console.WriteLine("another change");
         }
     }
 }
